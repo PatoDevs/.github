@@ -33,10 +33,10 @@
       </a>
         </td>
     <td align="center">
-      <a href="#" title="https://github.com/pneuzin">
-        <img src="https://www.havan.com.br/media/catalog/product/cache/73a52df140c4d19dbec2b6c485ea6a50/p/n/pneu-goodyear-17565-r14-direction-touring-aro-14-82t_875930.webp" width="100px;" alt="Foto pneu"/><br>
+      <a href="#" title="https://github.com/Jfdev23">
+        <img src="https://avatars.githubusercontent.com/u/44413196?v=4" width="100px;" alt="Foto joao"/><br>
         <sub>
-          <b>Pneuzin 🔨</b>
+          <b>João</b>
         </sub>
       </a>
   </tr>
