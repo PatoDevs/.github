@@ -1,7 +1,10 @@
 ![](https://media.discordapp.net/attachments/1147184121337090048/1397799144411893770/DEVS_1.png?ex=68830965&is=6881b7e5&hm=8ce347734977690b5d2efa73dbfc34d2697d690739c34fe5ac74cbbe5aabf42b&=&format=webp&quality=lossless&width=1440&height=810)
 
 ## `1º` **|** PatoDevs 🦆🔥 
-_**SEM BIOGRAFIA POR ENQUANTO.. 👨‍💻**_
+
+**PatoDevs** é um projeto que une método e conhecimento para facilitar o processo de aprender. Nosso objetivo é estruturar informações, conectar ideias e transformar o aprendizado em algo contínuo, acessível e aplicável no dia a dia. Acreditamos que, com organização, todo conhecimento se fortalece e se multiplica. 🚀👨‍💻
+
+
 
 ## `2º` **|** Colaboradores 🤝💙
 
