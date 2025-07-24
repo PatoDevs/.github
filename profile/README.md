@@ -5,7 +5,7 @@
 **PatoDevs** é um projeto que une método e conhecimento para facilitar o processo de aprender. Nosso objetivo é estruturar informações, conectar ideias e transformar o aprendizado em algo contínuo, acessível e aplicável no dia a dia. Acreditamos que, com organização, todo conhecimento se fortalece e se multiplica. 🚀👨‍💻
 
 ## `2º` **|**  📌 Suporte
-- 🖥️ **Plataforma:** [arcanprojects.com.br](arcanprojects.com.br)
+- 🖥️ **Plataforma:** [patodevs.com.br](patodevs.com.br)
 - ⚙ **Discord:** [discord.gg/arcanprojects](https://discord.gg/Bdtjh4en4K)
 - 📩 **Email:** [patodevs@gmail.com](patodevs@gmail.com)
 
