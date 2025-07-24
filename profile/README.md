@@ -6,7 +6,7 @@
 
 ## `2º` **|**  📌 Suporte
 - 🖥️ **Plataforma:** [patodevs.com.br](patodevs.com.br)
-- ⚙ **Discord:** [discord.gg/patodevs](https://discord.gg/patodevs)
+- ⚙ **Discord:** [discord.gg/patodevs](https://discord.gg/9rmezJBRQu)
 - 📩 **Email:** [patodevs@gmail.com](patodevs@gmail.com)
 
 
