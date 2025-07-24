@@ -6,7 +6,7 @@
 
 ## `2º` **|**  📌 Suporte
 - 🖥️ **Plataforma:** [patodevs.com.br](patodevs.com.br)
-- ⚙ **Discord:** [discord.gg/arcanprojects](https://discord.gg/Bdtjh4en4K)
+- ⚙ **Discord:** [discord.gg/patodevs](https://discord.gg/patodevs)
 - 📩 **Email:** [patodevs@gmail.com](patodevs@gmail.com)
 
 
