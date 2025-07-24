@@ -25,18 +25,18 @@
     </td>
         </td>
     <td align="center">
-      <a href="#" title="https://github.com/PatoDevs">
-        <img src="https://media.discordapp.net/attachments/1147184121337090048/1397815154091229246/137009658.png?ex=6883184e&is=6881c6ce&hm=0919b7891506e8d7a966d0ba1c04d53645c120616ee58b5ce351973745fc7cdf&=&format=webp&quality=lossless&width=250&height=250" width="100px;" alt="Foto Arcan"/><br>
-        <sub>
-          <b>Arcan Studio</b>
-        </sub>
-      </a>
-        </td>
-    <td align="center">
       <a href="#" title="https://github.com/zNaflyy">
         <img src="https://avatars.githubusercontent.com/u/82005263?v=4" width="100px;" alt="Foto Naflyy"/><br>
         <sub>
           <b>zNaflyyy</b>
+        </sub>
+      </a>
+        </td>
+    <td align="center">
+      <a href="#" title="https://github.com/pneuzin">
+        <img src="https://www.havan.com.br/media/catalog/product/cache/73a52df140c4d19dbec2b6c485ea6a50/p/n/pneu-goodyear-17565-r14-direction-touring-aro-14-82t_875930.webp" width="100px;" alt="Foto pneu"/><br>
+        <sub>
+          <b>Pneuzin 🔨</b>
         </sub>
       </a>
   </tr>
