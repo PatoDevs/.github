@@ -1,4 +1,4 @@
-![](https://media.discordapp.net/attachments/1147184121337090048/1397799144411893770/DEVS_1.png?ex=68830965&is=6881b7e5&hm=8ce347734977690b5d2efa73dbfc34d2697d690739c34fe5ac74cbbe5aabf42b&=&format=webp&quality=lossless&width=1440&height=810)
+<img width="1920" height="1080" alt="DEVS (1)" src="https://github.com/user-attachments/assets/0176392a-7e9e-420a-95c1-a477b5ba7e23" />
 
 ## `1º` **|** PatoDevs 🦆🔥 
 
