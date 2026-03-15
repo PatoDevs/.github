@@ -25,14 +25,6 @@
     </td>
         </td>
     <td align="center">
-      <a href="#" title="https://github.com/zNaflyy">
-        <img src="https://avatars.githubusercontent.com/u/82005263?v=4" width="100px;" alt="Foto Naflyy"/><br>
-        <sub>
-          <b>zNaflyyy</b>
-        </sub>
-      </a>
-        </td>
-    <td align="center">
       <a href="#" title="https://github.com/Jfdev23">
         <img src="https://avatars.githubusercontent.com/u/44413196?v=4" width="100px;" alt="Foto joao"/><br>
         <sub>
