@@ -5,8 +5,8 @@
 **PatoDevs** é um projeto que une método e conhecimento para facilitar o processo de aprender. Nosso objetivo é estruturar informações, conectar ideias e transformar o aprendizado em algo contínuo, acessível e aplicável no dia a dia. Acreditamos que, com organização, todo conhecimento se fortalece e se multiplica. 🚀👨‍💻
 
 ## `2º` **|**  📌 Suporte
-- 🖥️ **Plataforma:** [arcanprojects.com.br](arcanprojects.com.br)
-- ⚙ **Discord:** [discord.gg/arcanprojects](https://discord.gg/Bdtjh4en4K)
+- 🖥️ **Plataforma:** [patodevs.com.br](patodevs.com.br)
+- ⚙ **Discord:** [discord.gg/patodevs](https://discord.gg/9rmezJBRQu)
 - 📩 **Email:** [patodevs@gmail.com](patodevs@gmail.com)
 
 
@@ -25,19 +25,21 @@
     </td>
         </td>
     <td align="center">
-      <a href="#" title="https://github.com/zNaflyy">
-        <img src="https://avatars.githubusercontent.com/u/82005263?v=4" width="100px;" alt="Foto Naflyy"/><br>
+      <a href="#" title="https://github.com/Jfdev23">
+        <img src="https://avatars.githubusercontent.com/u/44413196?v=4" width="100px;" alt="Foto joao"/><br>
         <sub>
-          <b>zNaflyyy</b>
+          <b>João</b>
         </sub>
       </a>
+          </td>
         </td>
     <td align="center">
-      <a href="#" title="https://github.com/pneuzin">
-        <img src="https://www.havan.com.br/media/catalog/product/cache/73a52df140c4d19dbec2b6c485ea6a50/p/n/pneu-goodyear-17565-r14-direction-touring-aro-14-82t_875930.webp" width="100px;" alt="Foto pneu"/><br>
+      <a href="#" title="https://github.com/MarcoMoura1209">
+        <img src="https://avatars.githubusercontent.com/u/201738587?v=4" width="100px;" alt="Foto joao"/><br>
         <sub>
-          <b>Pneuzin 🔨</b>
+          <b>Marco Moura</b>
         </sub>
       </a>
+      
   </tr>
 </table>
