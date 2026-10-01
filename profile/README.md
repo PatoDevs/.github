@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="DEVS (1)" src="https://github.com/user-attachments/assets/0176392a-7e9e-420a-95c1-a477b5ba7e23" />
-
 ## `1º` **|** PatoDevs 🦆🔥 
 
 **PatoDevs** é um projeto que une método e conhecimento para facilitar o processo de aprender. Nosso objetivo é estruturar informações, conectar ideias e transformar o aprendizado em algo contínuo, acessível e aplicável no dia a dia. Acreditamos que, com organização, todo conhecimento se fortalece e se multiplica. 🚀👨‍💻
